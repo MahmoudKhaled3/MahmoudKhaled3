@@ -1,5 +1,4 @@
-  <img align="right" src="https://raw.githubusercontent.com/MahmoudKhaled3
-/mohamedelkashef15/main/github-profile.png" width="30%">
+ [![github-profile.png](https://i.postimg.cc/BQ9sskN1/github-profile.png)](https://postimg.cc/QVbvJ62X)
 <h1>
   Hi There I'm Mahmoud Khaled 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
