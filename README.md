@@ -1,8 +1,9 @@
- [![github-profile.png](https://i.postimg.cc/BQ9sskN1/github-profile.png)](https://postimg.cc/QVbvJ62X)
 <h1>
   Hi There I'm Mahmoud Khaled 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://i.postimg.cc/BQ9sskN1/github-profile.png" width="60" style="vertical-align:middle; margin-left:10px;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align:middle; margin-left:5px;">
 </h1>
+
 <p>
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
