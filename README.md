@@ -28,10 +28,10 @@ I'm a software developer with a strong passion for creating visually appealing a
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-  <!-- Frontend Frameworks -->
-  <!-- <a href="https://angular.io" target="_blank" rel="noreferrer">
+  Frontend Frameworks
+   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> -->
-  <!-- </a>
+   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
@@ -40,7 +40,7 @@ I'm a software developer with a strong passion for creating visually appealing a
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="40" height="40"/>
-  </a> -->
+  </a>
 
 </p>
 
