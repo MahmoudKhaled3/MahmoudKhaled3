@@ -18,12 +18,12 @@ I'm a software developer with a strong passion for creating visually appealing a
 <p align="left">
   <a href="https://MahmoudKhaled3.github.io/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://MahmoudKhaled3.github.io/Portfolio/" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/mahmoud-khaled-b85b9920a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MahmoudKhaled3" height="30" width="40" /></a>
-<!--   <a href="https://stackoverflow.com/users/27949436/%d9%8a%d9%88%d8%b3%d9%81-%d8%a7%d9%84%d8%b3%d9%8a%d8%af" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27949436/%d9%8a%d9%88%d8%b3%d9%81-%d8%a7%d9%84%d8%b3%d9%8a%d8%af" height="30" width="40" /></a> -->
-<a href="https://www.facebook.com/profile.php?id=100090318163375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100090318163375" height="30" width="40" /></a>
-
+  <!-- <a href="https://stackoverflow.com/users/27949436/%d9%8a%d9%88%d8%b3%d9%81-%d8%a7%d9%84%d8%b3%d9%8a%d8%af" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27949436/%d9%8a%d9%88%d8%b3%d9%81-%d8%a7%d9%84%d8%b3%d9%8a%d8%af" height="30" width="40" /><a> -->
+  <a href="https://fb.com/profile.php?id=100010998605405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100090318163375" height="30" width="40" /></a>
   <a href="https://www.instagram.com/mahmoud0ol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/MahmoudKhaled/" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/MaMahmoud0l" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/MaMahmoud0l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/MaMahmoud0l" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
