@@ -18,7 +18,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 <p align="left">
   <a href="https://MahmoudKhaled3.github.io/Portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://MahmoudKhaled3.github.io/Portfolio/" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/mahmoud-khaled-b85b9920a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MahmoudKhaled3" height="30" width="40" /></a>
-  <!-- <a href="https://stackoverflow.com/users/27949436/%d9%8a%d9%88%d8%b3%d9%81-%d8%a7%d9%84%d8%b3%d9%8a%d8%af" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27949436/%d9%8a%d9%88%d8%b3%d9%81-%d8%a7%d9%84%d8%b3%d9%8a%d8%af" height="30" width="40" /><a> -->
+  <!-- <a href="https://stackoverflow.com/users/27949436/%d9%8a%d9%88a%d8%af" target="blank"><img align="center" src="https://raw.githubuseent.com/rahuldkjain/g-readme-generator/masteres/icons/Social/stack-overflow.svg" alt="https://stackoverd8%b3%d9%81-%d8%a7%d9%84%d8%b3%d9%8a%d8%af" height="30" width="40" /><a> -->
  <a href="https://www.facebook.com/profile.php?id=100090318163375" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" />
 </a>
