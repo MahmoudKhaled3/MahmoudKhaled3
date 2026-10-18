@@ -1,27 +1,45 @@
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE%20SECURITY-111827?style=for-the-badge" alt="Offensive Security" />
+</p>
 
-Mahmoud Khaled
-Junior Penetration Tester
-Web Security · Network Pentesting · Android Security
-Portfolio · LinkedIn
-<img src="https://img.shields.io/badge/Focus-Offensive%20Security-111827?style=flat-square" alt="Focus: Offensive Security" />
-<img src="https://img.shields.io/badge/Practice-HTB-9FEF00?style=flat-square&logo=hackthebox&logoColor=111827" alt="Hack The Box" />
-<img src="https://img.shields.io/badge/Automation-Python%20%7C%20Bash-111827?style=flat-square" alt="Python and Bash" />
+<h1 align="center">Mahmoud Khaled</h1>
 
-</div>
+<p align="center">
+  <strong>Junior Penetration Tester</strong><br />
+  Web Security&nbsp; · &nbsp;Network Pentesting&nbsp; · &nbsp;Android Security
+</p>
+
+<p align="center">
+  <a href="https://MahmoudKhaled3.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-khaled-b85b9920a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/HTB-Academy-9FEF00?style=flat-square&logo=hackthebox&logoColor=111111" alt="Hack The Box Academy" />
+</p>
 
 About
-I test web, network, and Android applications in labs and practical security exercises. My workflow starts with reconnaissance and enumeration, moves to careful validation, and ends with clear documentation. A networking background and full-stack development experience help me understand both the infrastructure and the application logic behind a finding.
-Focus Areas
-- Web application security and OWASP Top 10
-- Network, Windows/Linux, and Active Directory testing
-- Android static analysis and reverse engineering
-- Reconnaissance and security automation
-- AI/LLM security and prompt-injection testing (currently learning)
+I’m a junior penetration tester focused on web, network, and Android security. I take a methodical approach to reconnaissance, enumeration, validation, and reporting. My networking background and full-stack development experience help me understand both infrastructure and application logic.
+Security Focus
+Area	What I work on
+Web Security	OWASP Top 10, SQL injection, SSTI, LFI/RFI, request testing with Burp Suite
+Network & Hosts	Service enumeration, Linux/Windows testing, privilege escalation
+Active Directory	LDAP/Kerberos enumeration, BloodHound, Kerberoasting labs
+Android Security	APK analysis, reverse engineering, insecure storage and weak encryption checks
+Recon & Automation	Asset discovery, URL enumeration, fuzzing, scripting
+AI/LLM Security	Prompt-injection testing and AI security labs (currently learning)
+
+
 Toolkit
-Burp Suite Nmap ffuf Nuclei sqlmap Metasploit BloodHound Wireshark JADX Ghidra Frida Python Bash Kali Linux
+Web & Recon  Burp Suite Nmap ffuf Nuclei sqlmap Gobuster
+Host & Network  Metasploit BloodHound Wireshark Hydra Hashcat
+Android & Reverse Engineering  JADX Apktool Ghidra Frida
+Scripting & Systems  Python Bash Kali Linux Linux Windows
 Learning & Practice
-- HTB Academy: Penetration Tester, Web Penetration Tester, and AI Red Teamer learning paths
+- HTB Academy: Penetration Tester, Web Penetration Tester, and AI Red Teamer paths
 - Networking: CCNA; CCNP studies in progress
 - CTFs: Web security, Linux, network analysis, and reverse engineering
-<p align="center"><sub>Recon carefully. Validate methodically. Report clearly.</sub></p>
+<p align="center">
+  <sub>Recon carefully. Validate methodically. Report clearly.</sub>
+</p>
